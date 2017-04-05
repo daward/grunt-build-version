@@ -2,19 +2,15 @@
   "name": "grunt-build-version",
   "description": "The best Grunt plugin ever.",
   "version": "0.1.0",
-  "homepage": "https://github.com/Dana/grunt-build-version",
-  "author": { },
+  "homepage": "https://github.com/daward/grunt-build-version",
+  "author": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/Dana/grunt-build-version.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Dana/grunt-build-version/issues"
+    "url": "https://github.com/daward/grunt-build-version.git"
   },
   "licenses": [
     {
-      "type": "MIT",
-      "url": "https://github.com/Dana/grunt-build-version/blob/master/LICENSE-MIT"
+      "type": "MIT"
     }
   ],
   "engines": {
@@ -25,8 +21,6 @@
   },
   "devDependencies": {
     "grunt-contrib-jshint": "^0.9.2",
-    "grunt-contrib-clean": "^0.5.0",
-    "grunt-contrib-nodeunit": "^0.3.3",
     "grunt": "~0.4.5"
   },
   "keywords": [
